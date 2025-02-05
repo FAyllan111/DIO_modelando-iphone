@@ -18,3 +18,7 @@ Além da modelagem UML, também foi possível implementar as classes e interface
  
 
 ---
+
+# **Solução do desafio :
+
+**![UML Iphone drawio](https://github.com/user-attachments/assets/fc43886f-0b52-430a-9ae8-b137273a7ee3)
